@@ -7,7 +7,7 @@
 Подробная статья для ознакомления сутью работы алгоритма https://habr.com/ru/post/191418/
 
 
-Использование такое:
+Правила применения следующие:
 solomon.exe decode [data length] [code length] [in file] [out file]
 encode - закодировать,
 decode - раскодировать
